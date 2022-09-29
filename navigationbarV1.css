@@ -1,7 +1,8 @@
-.startnavbar {
+#startnavbar {
     width: 100%;
     height: 100px;
     background-color: #00c2ff;
     position: relative;
     top: 600px;
+    padding: 0;
 }
