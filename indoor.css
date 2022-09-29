@@ -17,19 +17,20 @@ h1{
     width: 500px;
     height: 400px;
     background-color: gray;
-    margin-left: 150px;
-    top: -50px;
+    left: 150px;
+    top: 0px;
 }
 #graybox2{
     position: relative;
     width: 500px;
     height: 400px;
     background-color: gray;
-    margin-left: 900px;
-    top: -50px;
+    left: 900px;
+    top: 50px;
 }
-#judo{
+#Judo{
     position: relative;
-    margin-top: -300px;
-    
+    top: -800px;
+    left: 150px;
+
 }
