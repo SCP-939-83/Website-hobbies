@@ -15,8 +15,8 @@ body {
 h1{
     text-align: center;
 }
-#graybox{
-    position: relative;
+#graybox{    /*The gray boxes */
+    position: relative; 
     width: 500px;
     height: 400px;
     background-color: gray;
