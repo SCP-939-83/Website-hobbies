@@ -23,7 +23,7 @@ body {
 h1{
     text-align: center;
 }
-#Judo{
+#judo{
     position: relative;
     top: -80px;
     left: 130px;
@@ -34,6 +34,14 @@ h1{
     left: 1000px;
     top: -37px;
 }
+#judo1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+
+
 
 #myvideo {
     position: fixed;
