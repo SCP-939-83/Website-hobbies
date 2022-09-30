@@ -37,3 +37,9 @@ h1{
     left: 430px;
     top: 335px;
 }
+
+#myvideo {
+    position: fixed;
+    background-position: 100%;
+    z-index: -1;
+  }
