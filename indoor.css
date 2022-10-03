@@ -39,6 +39,16 @@ h1{
     top: 100px;
     left: 100px;
 }
+#kickboksen{
+    position: relative;
+    top: -450px;
+    left: 100px;
+}
+#handbal{
+    position: relative;
+    left: 1000px;
+    top: -1230px;
+}
 
 
 
