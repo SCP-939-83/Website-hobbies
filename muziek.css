@@ -1,0 +1,14 @@
+#muziek{
+    position: relative;
+    left: 1000px;
+    top: -37px;
+}
+#instrumenten{
+    position: relative;
+    top: 0px;
+}
+#myvideo {
+    position: fixed;
+    background-position: 100%;
+    z-index: -1;
+}

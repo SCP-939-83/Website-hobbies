@@ -1,0 +1,10 @@
+#kickboksen{
+    position: relative;
+    top: -440px;
+    left: 100px;
+}
+#myvideo {
+    position: fixed;
+    background-position: 100%;
+    z-index: -1;
+}
