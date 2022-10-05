@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+body { overflow: hidden;}
+
 h1{
     position: relative;
     top: -80px;

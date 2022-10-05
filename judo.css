@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+body { overflow: hidden;}
 body {
     font-family: "calibri", Times, serif;
   }
@@ -20,7 +21,7 @@ h1{
     height: 70px;
     background-color: #00c2ff;
     position: relative;
-    top: 877px;
+    top: 719px;
 }
 #judo1{
     position: relative;
