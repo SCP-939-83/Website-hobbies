@@ -15,10 +15,13 @@ h1{
 }
 #kickboksen1{
     position: relative;
-    top: 200px;
-    left: 200px;
+    top: 130px;
+    left: 30px;
 }
-
+#kickboksen2{
+    position: relative;
+    left: -150px;
+}
 
 
 
@@ -32,7 +35,7 @@ h1{
     height: 70px;
      background-color: #00c2ff;
     position: relative;
-    top: 540px;
+    top: 300px;
     
     }
     *{
@@ -47,4 +50,3 @@ h1{
     .testv2 {
     float: right;
     }
-    

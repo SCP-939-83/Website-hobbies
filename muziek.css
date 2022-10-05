@@ -2,7 +2,7 @@
 body { overflow: hidden;}
 body {
     font-family: "calibri", Times, serif;
-  }
+}
   h1{
     position: relative;
     top: 0px;
@@ -16,8 +16,13 @@ h1{
 
 #instrumenten{
     position: relative;
-    top: 200px;
-    left: 200px;
+    top: 190px;
+    left: 30px;
+}
+#gitaar{
+    position: relative;
+    left: -90px;
+    top: 70px;
 }
 #myvideo {
     position: fixed;
@@ -29,7 +34,7 @@ h1{
     height: 70px;
     background-color: #00c2ff;
     position: relative;
-    top: 508px;
+    top: 420px;
 
 }
 *{
@@ -44,4 +49,3 @@ position: relative;
 .testv2 {
 float: right;
 }
-
