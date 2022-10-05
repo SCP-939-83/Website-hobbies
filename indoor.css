@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
-body { overflow: hidden;}
+body {overflow: hidden;}
 
 h1{
     position: relative;
@@ -23,7 +19,19 @@ h1{
     height: 70px;
     background-color: #00c2ff;
     position: relative;
-    top: 877px;
+    top: 875px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+left: 43%;
+bottom: 75px;
+position: relative;
+}
+.testv2 {
+float: right;
 }
 #judo{
     position: relative;
