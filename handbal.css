@@ -8,7 +8,7 @@ body {
   }
   h1{
     position: relative;
-    top: -130px;
+    top: -450px;
 }
 h1 {
     font-size: 70px;
@@ -21,7 +21,7 @@ h1{
     height: 70px;
      background-color: #00c2ff;
     position: relative;
-    top: 650px;
+    top: 340px;
     
     }
     *{
@@ -37,12 +37,17 @@ h1{
     float: right;
     }
    
-
+#handbal2{
+    position: relative;
+    top: 250px;
+    left: 30px;
+}
 #handbal1{
     position: relative;
-    top: 200px;
-    left: 200px;
+    top: 150px;
+    left: -180px;    
 }
+
 #myvideo {
     position: fixed;
     background-position: 100%;
