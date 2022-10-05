@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+body { overflow: hidden;}
+
 #myvideo {
     position: fixed;
     background-position: 100%;
@@ -14,7 +16,7 @@
     height: 70px;
     background-color: #00c2ff;
     position: relative;
-    top: 863px;
+    top: 880px;
 }
 
 #t samp{
@@ -31,4 +33,15 @@ h1{
     color: #00c2ff;
     font-style: oblique;
 
+}
+
+#kantoor{
+    position: relative;
+    left: 10%;
+}
+
+#sportcomplex{
+    position: relative;
+    left: 40%;
+    top: -350px;
 }
