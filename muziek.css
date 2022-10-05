@@ -7,7 +7,7 @@ body {
   }
   h1{
     position: relative;
-    top: -80px;
+    top: 0px;
 }
 h1 {
     font-size: 70px;
@@ -18,7 +18,8 @@ h1{
 
 #instrumenten{
     position: relative;
-    top: 0px;
+    top: 200px;
+    left: 200px;
 }
 #myvideo {
     position: fixed;
