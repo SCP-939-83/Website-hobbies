@@ -16,6 +16,19 @@ h1 {
 h1{
     text-align: center;
 }
+h2 {
+    font-size: 40px;
+  }
+h2{
+    position: relative;
+    top: -470px;
+    left: 1050px;
+}
+
+
+
+
+
 #startnavbar {
     width: 100%;
     height: 70px;
