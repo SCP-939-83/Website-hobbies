@@ -18,15 +18,12 @@ h1{
 }
 h2 {
     font-size: 40px;
-  }
+}
 h2{
     position: relative;
-    top: -470px;
-    left: 1050px;
+    top: -360px;
+    left: 990px;
 }
-
-
-
 
 
 #startnavbar {
@@ -34,7 +31,7 @@ h2{
     height: 70px;
      background-color: #00c2ff;
     position: relative;
-    top: 200px;
+    top: -82px;
     
     }
     *{

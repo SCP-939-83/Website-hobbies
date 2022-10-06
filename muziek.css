@@ -13,16 +13,23 @@ h1 {
 h1{
     text-align: center;
 }
-
+h2 {
+    font-size: 40px;
+}
+h2{
+    position: relative;
+    top: 330px;
+    left: 1050px;
+}
 #instrumenten{
     position: relative;
-    top: 190px;
+    top: -0px;
     left: 30px;
 }
 #gitaar{
     position: relative;
     left: -90px;
-    top: 70px;
+    top: -90px;
 }
 #myvideo {
     position: fixed;
@@ -34,7 +41,7 @@ h1{
     height: 70px;
     background-color: #00c2ff;
     position: relative;
-    top: 420px;
+    top: 170px;
 
 }
 *{
