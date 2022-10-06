@@ -134,5 +134,16 @@ top: 10px;
     transform: translate(-50%, -50%);
     text-align: center;
   }
-
+  a:link, a:visited {
+    background-color: #00c2ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #00c2ff;
+  }
   
