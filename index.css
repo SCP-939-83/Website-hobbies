@@ -83,7 +83,7 @@ top: 10px;
   }
   
   .textkantoor {
-    color: white;
+    color: rgb(255,215,0);
     font-size: 20px;
     position: absolute;
     top: 50%;
@@ -115,7 +115,7 @@ top: 10px;
     height: 100%;
     width: 37.2%;
     opacity: -10;
-    transition: .5s ease;
+    transition: 2s ease;
     background-color: #008CBA;
   }
   
@@ -124,7 +124,7 @@ top: 10px;
   }
   
   .text {
-    color: white;
+    color: rgb(255,215,0);
     font-size: 20px;
     position: absolute;
     top: 50%;
