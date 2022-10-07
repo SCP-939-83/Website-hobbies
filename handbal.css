@@ -49,11 +49,13 @@ h2{
     position: relative;
     top: 250px;
     left: 30px;
+    border-radius: 4px;
 }
 #handbal1{
     position: relative;
     top: 150px;
-    left: -180px;    
+    left: -180px;   
+    border-radius: 4px; 
 }
 
 #myvideo {
