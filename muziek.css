@@ -24,14 +24,19 @@ h2{
 #instrumenten{
     position: relative;
     top: -0px;
-    left: 30px;
+    left: -470px;
     border-radius: 4px;
 }
 #gitaar{
     position: relative;
-    left: -90px;
+    left: -590px;
     top: -90px;
     border-radius: 4px;
+}
+#piano{
+    position: relative;
+    top: -370px;
+    left: 200px;
 }
 #myvideo {
     position: fixed;
