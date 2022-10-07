@@ -45,21 +45,25 @@ float: right;
     position: relative;
     top: -140px;
     left: 130px;
+    border-radius: 4px;
 }
 #handbal{
     position: relative;
     left: 1000px;
     top: -1290px;
+    border-radius: 4px;
 }
 #kickboksen{
     position: relative;
     top: -488px;
     left: 100px;
+    border-radius: 4px;
 }
 #muziek{
     position: relative;
     left: 1000px;
     top: -86px;
+    border-radius: 4px;
 }
 
 #myvideo {

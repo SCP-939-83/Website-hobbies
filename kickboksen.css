@@ -25,11 +25,13 @@ h2{
     position: relative;
     top: -20px;
     left: 30px;
+    border-radius: 4px;
 }
 #kickboksen2{
     position: relative;
     left: -150px;
     top: -150px;
+    border-radius: 4px;
 }
 
 
