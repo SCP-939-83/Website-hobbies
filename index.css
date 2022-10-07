@@ -146,4 +146,15 @@ top: 10px;
   a:hover, a:active {
     background-color: #00c2ff;
   }
-  
+#button1 {
+  position: relative;
+  top: -150px;
+}
+h3{
+ color: black;
+}
+#button2 {
+  position: relative;
+  left: 1700px;
+  top: -200px;
+}
