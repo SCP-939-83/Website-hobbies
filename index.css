@@ -5,9 +5,11 @@
 
 body { 
     overflow: hidden;
-    background-lor: black;
-    background-image: linear-gradient(rgba(41, 107, 228, 0.789),rgba(255, 255, 255, 0.674)),url(Judo.jpg);
+    background-color: black;
+    background-image: linear-gradient(rgba(41, 107, 228, 0.789),rgba(255, 255, 255, 0.674)),url(backgroundhomepaginahobby\ -\ kopie.jpg);
     width: 100%;
+    position: fixed;
+    background-size: cover;
 }
 
 #myvideo {
@@ -48,7 +50,7 @@ body {
 }
 
 h1{
-    color: #00c2ff;
+    color: #000000;
     font-style: oblique;
 
 }
@@ -77,8 +79,8 @@ top: 10px;
   }
   
   .textkantoor {
-    color: #00c2ff;
-    font-size: 20px;
+    color: #ffffff;
+    font-size: 40px;
     position: absolute;
     top: 54%;
     left: 39%;
@@ -87,6 +89,7 @@ top: 10px;
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
 
 .containersport {
     position: relative;
@@ -106,10 +109,10 @@ top: 10px;
   }
   
   .text {
-    color: #00c2ff;
+    color: #ffffff;
     font-size: 20px;
     position: absolute;
-    top: 50%;
+    top: 80%;
     left: 20%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
