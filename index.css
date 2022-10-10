@@ -16,7 +16,7 @@ body { overflow: hidden;}
     height: 70px;
      background-color: #00c2ff;
     position: relative;
-    top: -240px;
+    top: 150px;
     
     }
     *{
@@ -94,29 +94,17 @@ top: 10px;
     width: 350px
   }
   
-  .overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 70%;
-    width: 41%;
-    opacity: -10;
-    transition: 2s ease;
-    background-color: #008CBA;
-  }
-  
+
   .containersport:hover .overlay {
     opacity: 1;
   }
   
   .text {
-    color: rgb(255,215,0);
+    color: #00c2ff;
     font-size: 20px;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 20%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -136,7 +124,7 @@ top: 10px;
   }
 #button1 {
   position: relative;
-  top: -300px;
+  top: 85px;
 }
 h3{
  color: black;
@@ -144,7 +132,7 @@ h3{
 #button2 {
   position: relative;
   left: 1700px;
-  top: -350px;
+  top: 40px;
 }
 
 #texthome {
@@ -156,6 +144,7 @@ h3{
  padding: 25px;
  margin: 50px;
  transition: 0.7s ease;
- margin-left: 450px;
- margin-top: -300px;
+ margin-left: 1200px;
+ margin-top: -700px;
+ text-align: center;
 }
