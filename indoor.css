@@ -19,7 +19,7 @@ h2 {
 h2{
     position: relative;
     top: 276px;
-    left: 590px;
+    left: 29%;
 }
 #startnavbar {
     width: 100%;
@@ -45,7 +45,6 @@ float: right;
     top: -80px;
     left: 130px;
     border-radius: 4px;
-    
 }
 img { 
 	transition: all .2s ease-in-out; 
