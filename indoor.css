@@ -95,11 +95,11 @@ img:hover {
   
   @keyframes glow {
     from {
-      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #71c6ff, 0 0 40px #71cbff, 0 0 50px #71cbff, 0 0 60px #71cbff, 0 0 70px #71cbff;
+      text-shadow: 0 0 10px #fff, 0 0 20px #71c6ff, 0 0 30px #71c6ff, 0 0 40px #71cbff, 0 0 50px #71cbff, 0 0 60px #71cbff, 0 0 70px #71cbff;
     }
     
     to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #00ffbf, 0 0 40px #00ffbf, 0 0 50px #00ffbf, 0 0 60px #00ffbf, 0 0 70px #00ffbf, 0 0 80px #00ffbf;
+      text-shadow: 0 0 20px #fff, 0 0 30px #003ba8, 0 0 40px #003ba8, 0 0 50px #003ba8, 0 0 60px #003ba8, 0 0 70px #003ba8, 0 0 80px #003ba8;
     }
   }
   

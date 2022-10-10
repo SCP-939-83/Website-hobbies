@@ -3,7 +3,12 @@
     padding: 0;
 }
 
-body { overflow: hidden;}
+body { 
+    overflow: hidden;
+    background-lor: black;
+    background-image: linear-gradient(rgba(41, 107, 228, 0.789),rgba(255, 255, 255, 0.674)),url(Judo.jpg);
+    width: 100%;
+}
 
 #myvideo {
     position: fixed;
@@ -12,7 +17,7 @@ body { overflow: hidden;}
   }
 
   #startnavbar {
-    width: 100%;
+    width: 120%;
     height: 70px;
      background-color: #00c2ff;
     position: relative;
@@ -63,6 +68,7 @@ top: 10px;
   .imagekantoor {
     display: block;
     width: 700px
+    
   }
   
 
