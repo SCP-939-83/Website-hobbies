@@ -71,11 +71,11 @@ top: 10px;
   }
   
   .textkantoor {
-    color: rgb(0, 0, 0);
+    color: #00c2ff;
     font-size: 20px;
     position: absolute;
-    top: 50%;
-    left: 35%;
+    top: 54%;
+    left: 39%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
