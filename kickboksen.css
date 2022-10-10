@@ -36,10 +36,11 @@ h2{
 
 
 
-#myvideo {
+body {
+    background-image: url(achtergrondindoor.jpg);
+    width: 100%;
     position: fixed;
-    background-position: 100%;
-    z-index: -1;
+    background-size: cover;
 }
 #startnavbar {
     width: 100%;

@@ -24,7 +24,7 @@ h2{
     top: -360px;
     left: 990px;
 }
-
+body
 
 #startnavbar {
     width: 100%;
@@ -59,8 +59,23 @@ h2{
     border-radius: 4px;
 }
 
-#myvideo {
+body {
+    background-image: url(achtergrondindoor.jpg);
+    width: 100%;
     position: fixed;
-    background-position: 100%;
-    z-index: -1;
+    background-size: cover;
 }
+#tekstbox{
+    background-color: rgb(255, 255, 255);
+    width: 25.25em;
+    height: 350px;
+    box-shadow: 0 5px 25px #00c2ff;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 50px;
+    transition: 0.7s ease;
+    margin-left: 1200px;
+    margin-top: -700px;
+    text-align: center;
+   }
+
