@@ -100,7 +100,7 @@ img:hover {
     }
     
     to {
-      text-shadow: 0 0 20px #fff, 0 0 30px #00c2ff, 0 0 40px #00c2ff, 0 0 50px #00c2ff, 0 0 60px #00c2ff, 0 0 70px #00c2ff, 0 0 80px #00c2ff;
+      text-shadow: 0 0 20px #fff, 0 0 30px #00ffbf, 0 0 40px #00ffbf, 0 0 50px #00ffbf, 0 0 60px #00ffbf, 0 0 70px #00ffbf, 0 0 80px #00ffbf;
     }
   }
   
