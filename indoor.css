@@ -45,7 +45,14 @@ float: right;
     top: -80px;
     left: 130px;
     border-radius: 4px;
+    
 }
+img { 
+	transition: all .2s ease-in-out; 
+}
+img:hover { 
+    	transform: scale(1.07); 
+    }
 #handbal{
     position: relative;
     left: 1000px;
@@ -54,7 +61,7 @@ float: right;
 }
 #kickboksen{
     position: relative;
-    top: -318px;
+    top: -330px;
     left: 130px;
     border-radius: 4px;
 }
