@@ -23,18 +23,21 @@ h2{
 }
 #kickboksen1{
     position: relative;
-    top: -20px;
+    top: -450px;
     left: 30px;
     border-radius: 4px;
 }
 #kickboksen2{
     position: relative;
     left: -150px;
-    top: -150px;
+    top: -580px;
     border-radius: 4px;
 }
 
-
+body{
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
+}
 
 body {
     background-image: url(achtergrondindoor.jpg);
@@ -48,7 +51,7 @@ body {
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 93px;
+    top: -327px;
     
     }
     *{
@@ -63,3 +66,17 @@ body {
     .testv2 {
     float: right;
     }
+
+    #tekstbox{
+        background-color: rgb(255, 255, 255);
+        width: 15.25em;
+        height: 280px;
+        box-shadow: 0 5px 25px #00c2ff;
+        border-radius: 10px;
+        padding: 25px;
+        margin: 50px;
+        transition: 0.7s ease;
+        margin-left: 1050px;
+        margin-top: 230px;
+        text-align: center;
+       }

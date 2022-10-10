@@ -24,7 +24,10 @@ h2{
     top: -360px;
     left: 990px;
 }
-body
+body{
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
+}
 
 #startnavbar {
     width: 100%;
@@ -32,7 +35,7 @@ body
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: -92px;
+    top: 195px;
     
     }
     *{
@@ -68,15 +71,15 @@ body {
 }
 #tekstbox{
     background-color: rgb(255, 255, 255);
-    width: 25.25em;
+    width: 15.25em;
     height: 350px;
     box-shadow: 0 5px 25px #00c2ff;
     border-radius: 10px;
     padding: 25px;
     margin: 50px;
     transition: 0.7s ease;
-    margin-left: 1200px;
-    margin-top: -700px;
+    margin-left: 1050px;
+    margin-top: -450px;
     text-align: center;
    }
 

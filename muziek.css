@@ -21,21 +21,27 @@ h2{
     top: 300px;
     left: 1050px;
 }
+body{
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
+}
+
+
 #instrumenten{
     position: relative;
-    top: -60px;
+    top: -360px;
     left: -470px;
     border-radius: 4px;
 }
 #gitaar{
     position: relative;
     left: -590px;
-    top: -140px;
+    top: -440px;
     border-radius: 4px;
 }
 #piano{
     position: relative;
-    top: -420px;
+    top: -720px;
     left: 200px;
 }
 body {
@@ -50,7 +56,7 @@ body {
     background-color: #00c2ff;
     background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 122px;
+    top: -201px;
 
 }
 *{
@@ -65,3 +71,16 @@ position: relative;
 .testv2 {
 float: right;
 }
+#tekstbox{
+    background-color: rgb(255, 255, 255);
+    width: 16.25em;
+    height: 280px;
+    box-shadow: 0 5px 25px #00c2ff;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 50px;
+    transition: 0.7s ease;
+    margin-left: 1050px;
+    margin-top: 230px;
+    text-align: center;
+   }
