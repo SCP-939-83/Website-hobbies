@@ -16,7 +16,7 @@ body { overflow: hidden;}
     height: 70px;
      background-color: #00c2ff;
     position: relative;
-    top: -90px;
+    top: -240px;
     
     }
     *{
@@ -148,7 +148,7 @@ top: 10px;
   }
 #button1 {
   position: relative;
-  top: -150px;
+  top: -300px;
 }
 h3{
  color: black;
@@ -156,5 +156,18 @@ h3{
 #button2 {
   position: relative;
   left: 1700px;
-  top: -200px;
+  top: -350px;
+}
+
+#texthome {
+    background-color: rgb(255, 255, 255);
+ width: 25.25em;
+ height: 350px;
+ box-shadow: 0 5px 25px #00c2ff;
+ border-radius: 10px;
+ padding: 25px;
+ margin: 50px;
+ transition: 0.7s ease;
+ margin-left: 450px;
+ margin-top: -300px;
 }
