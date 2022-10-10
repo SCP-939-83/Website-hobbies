@@ -1,9 +1,8 @@
-
 body {overflow: hidden;}
 
 h1{
     position: relative;
-    top: -80px;
+    top: -60px;
 }
 body {
     font-family: "calibri", Times, serif;
@@ -43,26 +42,26 @@ float: right;
 }
 #judo{
     position: relative;
-    top: -140px;
+    top: -80px;
     left: 130px;
     border-radius: 4px;
 }
 #handbal{
     position: relative;
     left: 1000px;
-    top: -1290px;
+    top: -1020px;
     border-radius: 4px;
 }
 #kickboksen{
     position: relative;
-    top: -488px;
-    left: 100px;
+    top: -318px;
+    left: 130px;
     border-radius: 4px;
 }
 #muziek{
     position: relative;
     left: 1000px;
-    top: -86px;
+    top: 6px;
     border-radius: 4px;
 }
 
@@ -71,3 +70,30 @@ float: right;
     background-position: 100%;
     z-index: -1;
 }
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  body{
+  background-color: black;
+    font-family: cursive;
+  }
+  
+  .glow {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+  }
+  
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+  
