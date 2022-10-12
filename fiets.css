@@ -29,8 +29,11 @@ body {
     top: -160px;
     }
 
-    .button1 {
-        float: right;
+    #button1 {
         position: relative;
-        top: -500px;
-    }
+        left: 1000px;
+        top: 500px;
+      }
+      h3{
+       color: black;
+      }
