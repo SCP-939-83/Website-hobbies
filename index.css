@@ -17,14 +17,17 @@ body {
     background-position: 100%;
     z-index: -1;
   }
-
+  h3{
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
+}
   #startnavbar {
     width: 120%;
     height: 70px;
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 150px;
+    top: 180px;
     
     }
     *{
@@ -123,15 +126,16 @@ top: 10px;
 
 #button1 {
   position: relative;
-  top: 85px;
+  top: 120px;
+  left: 20px;
 }
 h3{
  color: black;
 }
 #button2 {
   position: relative;
-  left: 1700px;
-  top: 40px;
+  left: 1460px;
+  top: 80px;
 }
 
 #texthome {
