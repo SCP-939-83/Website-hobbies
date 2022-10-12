@@ -11,7 +11,7 @@ body {
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 860px;
+    top: 170px;
     
     }
     *{
@@ -37,3 +37,43 @@ body {
       h3{
        color: black;
       }
+      h1 {
+        text-align: center;
+        font-size: 70px;
+      }
+      #vissen1{
+        position: relative;
+        top: 153px;
+        left: 50px;
+        border-radius: 4px;
+    }
+    #vissen2{
+        position: relative;
+        left: -180px;
+        border-radius: 4px;
+    }
+    
+
+    #tekstbox{
+        background-color: rgb(255, 255, 255);
+        width: 15.25em;
+        height: 350px;
+        box-shadow: 0 5px 25px #00c2ff;
+        border-radius: 10px;
+        padding: 25px;
+        margin: 50px;
+        transition: 0.7s ease;
+        margin-left: 1150px;
+        margin-top: -310px;
+        text-align: center;
+        font-family: "calibri", Times, serif;
+        font-size: 33px;
+       }
+
+
+
+
+
+
+
+      
