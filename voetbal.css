@@ -65,13 +65,16 @@ h3{
        }
        #button1 {
         position: relative;
-        top: -85px;
+        top: -130px;
+        left: 20px;
       }
       h3{
        color: black;
       }
       #button2 {
         position: relative;
+        left: 1450px;
+        top: -170px;
       }
       
 
