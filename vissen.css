@@ -28,21 +28,22 @@ body {
     position: relative;
     top: -290px;
     }
-    body{
+    h3{
         font-family: "calibri", Times, serif;
         font-size: 33px;
     }
     #button1 {
         position: relative;
-        top: 85px;
+        top: -130px;
+        left: 1560px;
       }
       h3{
        color: black;
       }
       #button2 {
         position: relative;
-        left: 1700px;
-        top: 40px;
+        left: 20px;
+        top: -170px;
       }
       
       h3{
