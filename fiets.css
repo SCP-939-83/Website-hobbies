@@ -32,12 +32,17 @@ body {
 
     #button1 {
         position: relative;
-    float: left;
-        top: 20px;
+        top: 85px;
       }
       h3{
        color: black;
       }
+      #button2 {
+        position: relative;
+        left: 1700px;
+        top: 40px;
+      }
+      
       h1 {
         text-align: center;
         font-size: 70px;

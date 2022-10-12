@@ -69,6 +69,19 @@ body {
         font-family: "calibri", Times, serif;
         font-size: 33px;
        }
+       #button1 {
+        position: relative;
+        top: 85px;
+      }
+      h3{
+       color: black;
+      }
+      #button2 {
+        position: relative;
+        left: 1700px;
+        top: 40px;
+      }
+      
 
 
 

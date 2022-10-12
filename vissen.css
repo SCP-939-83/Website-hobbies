@@ -34,9 +34,17 @@ body {
     }
     #button1 {
         position: relative;
-        left: 20px;
-        top: -140px;
+        top: 85px;
       }
+      h3{
+       color: black;
+      }
+      #button2 {
+        position: relative;
+        left: 1700px;
+        top: 40px;
+      }
+      
       h3{
        color: black;
       }

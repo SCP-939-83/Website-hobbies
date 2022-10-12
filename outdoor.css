@@ -64,13 +64,17 @@ left: 890px;
 
 }
 #button1 {
-    position: relative;
-    left: 18px;
-    top: 700px;
-  }
-  h3{
-   color: black;
-  }
+  position: relative;
+  top: 85px;
+}
+h3{
+ color: black;
+}
+#button2 {
+  position: relative;
+  left: 1700px;
+  top: 40px;
+}
 
   #fiets{
     position: relative;
