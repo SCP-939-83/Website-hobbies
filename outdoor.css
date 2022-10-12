@@ -119,7 +119,7 @@ left: 890px;
   }
   
   @keyframes glow {
-    from {
+  }  from {
       text-shadow: 0 0 10px rgb(0, 0, 0), 0 0 20px #71c6ff, 0 0 30px #71c6ff, 0 0 40px #71cbff, 0 0 50px #71cbff, 0 0 60px #71cbff, 0 0 70px #71cbff;
     }
     
