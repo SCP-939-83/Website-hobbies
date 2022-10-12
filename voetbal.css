@@ -76,12 +76,14 @@ h3{
        }
        #button1 {
         position: relative;
-        top: 85px;
+        top: -85px;
       }
       h3{
        color: black;
       }
-
+      #button2 {
+        position: relative;
+      }
       
 
 
