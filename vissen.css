@@ -11,7 +11,7 @@ body {
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 170px;
+    top: 196px;
     
     }
     *{
@@ -24,15 +24,18 @@ body {
     position: relative;
     }
     .testv2 {
-    float: left;
+    left: 10px;
     position: relative;
-    top: -160px;
+    top: -290px;
     }
-
+    body{
+        font-family: "calibri", Times, serif;
+        font-size: 33px;
+    }
     #button1 {
         position: relative;
-        left: 1000px;
-        top: 500px;
+        left: 20px;
+        top: -140px;
       }
       h3{
        color: black;
