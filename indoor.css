@@ -114,5 +114,16 @@ img:hover {
       text-shadow: 0 0 20px #fff, 0 0 30px #4a9eff, 0 0 40px #4a9eff, 0 0 50px #4a9eff, 0 0 60px #4a9eff, 0 0 70px #4a9eff, 0 0 80px #4a9eff;
     }
   }
-
+  #button1 {
+    position: relative;
+    top: 85px;
+  }
+  h3{
+   color: black;
+  }
+  #button2 {
+    position: relative;
+    left: 1700px;
+    top: 40px;
+  }
   
