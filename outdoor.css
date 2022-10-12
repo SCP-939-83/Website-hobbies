@@ -3,6 +3,13 @@
     padding: 0;
 }
 
+body {
+  background-image: url(background-hobby-websitebuurman.mp4);
+  width: 100%;
+  position: fixed;
+  background-size: cover;
+}
+
 #myvideo {
     position: fixed;
     background-position: 100%;
