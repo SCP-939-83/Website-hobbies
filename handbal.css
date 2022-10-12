@@ -3,9 +3,6 @@
     padding: 0;
 }
 body { overflow: hidden;}
-body {
-    font-family: "calibri", Times, serif;
-  }
   h1{
     position: relative;
     top: -450px;
