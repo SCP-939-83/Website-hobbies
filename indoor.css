@@ -46,7 +46,9 @@ bottom: 75px;
 position: relative;
 }
 .testv2 {
-float: right;
+  position: relative;
+left: -125px;
+top: -83px;
 }
 #judo{
     position: relative;
@@ -125,6 +127,6 @@ img:hover {
   #button2 {
     position: relative;
     left: 1550px;
-    top: -155px;
+    top: -130px;
   }
   
