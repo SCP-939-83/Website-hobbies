@@ -24,10 +24,6 @@ h2{
     top: -360px;
     left: 990px;
 }
-body{
-    font-family: "calibri", Times, serif;
-    font-size: 33px;
-}
 
 #startnavbar {
     width: 100%;
@@ -81,6 +77,8 @@ body {
     margin-left: 1050px;
     margin-top: -450px;
     text-align: center;
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
    }
 
    #button1 {
@@ -88,7 +86,7 @@ body {
     left: 18px;
     top: -125px;
   }
-  p{
+  h3{
    color: black;
   }
   #button2 {
