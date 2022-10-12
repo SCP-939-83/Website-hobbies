@@ -22,7 +22,7 @@ body {
     background-color: #00c2ff;
     background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 820px;
+    top: 860px;
 
 }
 *{
@@ -37,7 +37,7 @@ position: relative;
 .testv2 {
 float: right;
 position: relative;
-top: 730px;
+top: 770px;
 }
 
 
@@ -52,7 +52,7 @@ left: 890px;
 #button1 {
     position: relative;
     left: 18px;
-    top: 770px;
+    top: 810px;
   }
   h3{
    color: black;
