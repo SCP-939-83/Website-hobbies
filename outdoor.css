@@ -40,3 +40,17 @@ left: 890px;
 
 
 }
+#button1 {
+    position: relative;
+    left: 18px;
+    top: -125px;
+  }
+  h3{
+   color: black;
+  }
+  #button2 {
+    position: relative;
+    left: 1550px;
+    top: -155px;
+  }
+  
