@@ -84,3 +84,16 @@ float: right;
     margin-top: 230px;
     text-align: center;
    }
+#button1 {
+    position: relative;
+    left: 18px;
+    top: -140px;
+}
+h3{
+   color: black;
+}
+#button2 {
+    position: relative;
+    left: 1600px;
+    top: -190px;
+}
