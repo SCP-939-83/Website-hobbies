@@ -84,7 +84,7 @@ body {
    #button1 {
     position: relative;
     left: 18px;
-    top: -125px;
+    top: 810px;
   }
   h3{
    color: black;
@@ -93,7 +93,4 @@ body {
     position: relative;
     left: 1550px;
     top: -155px;
-}
-#button3 {
-    position: relative;
 }
