@@ -21,7 +21,10 @@ h2{
     top: 276px;
     left: 29%;
 }
-
+h3{
+  font-family: "calibri", Times, serif;
+  font-size: 33px;
+}
 body {
     background-image: url(achtergrondindoor.jpg);
     width: 100%;
@@ -126,6 +129,6 @@ img:hover {
   }
   #button2 {
     position: relative;
-    left: 1550px;
+    left: 1460px;
     top: -130px;
   }
