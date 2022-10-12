@@ -17,7 +17,7 @@ body {
     background-position: 100%;
     z-index: -1;
   }
-  h3{
+  h5{
     font-family: "calibri", Times, serif;
     font-size: 33px;
 }
@@ -129,7 +129,7 @@ top: 10px;
   top: 120px;
   left: 20px;
 }
-h3{
+h5{
  color: black;
 }
 #button2 {
