@@ -33,18 +33,18 @@ body{
     top: 10px;
     }
 
-    #button1 {
+    #button2 {
         position: relative;
         top: -140px;
-        left: 1550px;
+        left: 20px;
       }
       h3{
        color: black;
       }
-      #button2 {
+      #button1 {
         position: relative;
-        left: 20px;
-        top: -190px;
+        left: 1400px;
+        top: -185px;
       }
       
       h1 {

@@ -32,18 +32,18 @@ body {
         font-family: "calibri", Times, serif;
         font-size: 33px;
     }
-    #button1 {
+    #button2 {
         position: relative;
-        top: -130px;
-        left: 1560px;
+        top: -170px;
+        left: 1450px;
       }
       h3{
        color: black;
       }
-      #button2 {
+      #button1 {
         position: relative;
         left: 20px;
-        top: -170px;
+        top: -130px;
       }
       
       h3{

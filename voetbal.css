@@ -4,6 +4,10 @@ body {
     position: fixed;
     background-size: cover;
 }
+h3{
+    font-family: "calibri", Times, serif;
+    font-size: 33px;
+}
 
 #startnavbar {
     width: 100%;
@@ -11,7 +15,7 @@ body {
      background-color: #00c2ff;
      background-image: linear-gradient(rgba(132, 225, 242, 0.789),rgba(62, 80, 243, 0.674));
     position: relative;
-    top: 170px;
+    top: 130px;
     
     }
     *{
@@ -23,16 +27,17 @@ body {
     bottom: 75px;
     position: relative;
     }
-    .testv2 {
-    float: left;
-    position: relative;
-    top: -160px;
-    }
 
-    #button1 {
+
+    #button2 {
         position: relative;
-        left: 1000px;
-        top: 500px;
+        left: 1900px;
+    
+      }
+      #button1 {
+        position: relative;
+        left: 20px;
+        top: -390px;
       }
       h3{
        color: black;
@@ -63,7 +68,7 @@ body {
         padding: 25px;
         margin: 50px;
         transition: 0.7s ease;
-        margin-left: 1150px;
+        margin-left: 1080px;
         margin-top: -270px;
         text-align: center;
         font-family: "calibri", Times, serif;
@@ -76,11 +81,7 @@ body {
       h3{
        color: black;
       }
-      #button2 {
-        position: relative;
-        left: 1700px;
-        top: 40px;
-      }
+
       
 
 
